@@ -1,9 +1,0 @@
-Name : aaa
-Place : chennai
-Education : XYZ College
-
-Skills:
-Java
-MySQL
-HTML
-CSS
